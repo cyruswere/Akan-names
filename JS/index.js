@@ -1,0 +1,1 @@
+let daysArray = ["Sunday", "Monday", "Teusday","Wednesday","Thursday","Friday","Saturday"]
