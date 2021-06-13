@@ -60,7 +60,7 @@ View [Live] (https://cyruswere.github.io/Akan_names/)
 
 ### Licence
 This project is under the  [MIT](LICENSE) licence.
-## Support and contact details
+### Support and contact details
 If you want to contact me, email me on cyrus.were@student.moringaschool.com
 
 Copyright (c) 2021 Cyrus Inc.
