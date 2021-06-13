@@ -13,3 +13,8 @@ body{
 .btns{
     text-align: right;
 }
+.into-texr{
+    font-style: normal;
+    font-weight: 600 !important;
+    text-align: center
+}
