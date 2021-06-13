@@ -2,7 +2,7 @@
 
 body{
     font-family: 'Poppins', sans-serif;
-    background-color:#BFAFB2;
+    background-color: #00ac96;
 }
 
 .content{
@@ -29,7 +29,7 @@ body{
     font-size: 1rem;
     font-weight: 400;
     line-height: 1.5;
-    border-color:#BFAFB2 !important;
+    border-color: #00ac96 !important;
     border-style: solid !important;
     border-width: 0 0 1px 0 !important;
     padding: 0px !important;
@@ -46,7 +46,7 @@ body{
     font-size: 1rem;
     font-weight: 400;
     line-height: 1.5;
-    border-color:#BFAFB2 !important;
+    border-color: #00ac96 !important;
     border-style: solid !important;
     border-width: 1 1 1px 0 !important;
     padding: 5px !important;
@@ -74,12 +74,9 @@ img{
     box-shadow: none;
 }
 .btn-class{
-    border-color:#BFAFB2;
-    color:#BFAFB2 ;
+    border-color: #00ac96;
+    color: #00ac96;
 }
 .btn-class:hover{
-    background-color:#BFAFB2 ;
+    background-color: #00ac96;
 }
-
-    
-
