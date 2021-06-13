@@ -51,3 +51,25 @@ body{
     background-clip: padding-box;
     margin: 15px;
 }
+#hiden-display{
+    display: none
+}
+
+img{
+    border-radius: 10px;
+}
+
+.form-control:focus{
+    color: #495057;
+    background-color: #fff;
+    border-color: #fff;
+    outline: 0;
+    box-shadow: none;
+}
+.btn-class{
+    border-color: #00ac96;
+    color: #00ac96;
+}
+.btn-class:hover{
+    background-color: #00ac96;
+}
