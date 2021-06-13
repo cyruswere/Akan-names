@@ -1,7 +1,7 @@
-#GHANA AKAN-NAMES
+# GHANA AKAN-NAMES
 
 ## Author
-Odero Oluoch
+CYRUS SETH WERE
 
 ### Project Description
 This is a website that is based on the Ghanian Akans naming system.The web interface asks the user to input his or her birthday, select the gender then proceeds to submit the data to get the would have been Akhan names.
@@ -15,7 +15,10 @@ You can install it with the following command in your terminal.
 ### Setup
 To access this project on your local files, you can clone it using these steps
 1. Open your terminal
-2. Use this command to clone `$ git clone https://github.com/OderoOluoch/akan.git`
+2. Use this command to clone 
+```
+$ git clonehttps://github.com/cyruswere/My_portfolio.git
+```
 3. This will clone the repositoty into your local folder
  __Enjoy :)__
 
@@ -53,7 +56,11 @@ The site allows the user to clear inputs by clicking on the clear button
     
 
 ### Live Site
-View [Live] (https://oderooluoch.github.io/akan/)
+View [Live] (https://cyruswere.github.io/Akan_names/)
 
 ### Licence
 This project is under the  [MIT](LICENSE) licence.
+## Support and contact details
+If you want to contact me, email me on cyrus.were@student.moringaschool.com
+
+Copyright (c) 2021 Cyrus Inc.
